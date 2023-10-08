@@ -1,6 +1,11 @@
-# food_ui
+# food_ui- App
 
 A new Flutter project.
+simple Ui food- interface created with flutter
+
+![image](https://github.com/Sofiane-apk/Flutter-Food-App-UI/assets/57842224/42e5ed41-84f1-4a02-8cbb-88c3d482faee)
+
+
 
 ## Getting Started
 
